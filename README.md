@@ -1,3 +1,3 @@
 First Project at Ubiqum Madrid 
 
-For google maps work you need to change the api key 
+to run google maps you need to update the API KEY
